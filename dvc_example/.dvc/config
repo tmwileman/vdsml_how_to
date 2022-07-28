@@ -1,0 +1,4 @@
+[core]
+    remote = vdsml-dvc-how-to
+['remote "vdsml-dvc-how-to"']
+    url = s3://vdsml-dvc-how-to
