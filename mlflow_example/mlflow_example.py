@@ -3,6 +3,9 @@
 # 2 - Run the following command: python3 mlflow_example.py
 # 3 - Run the following command: mlflow ui
 # 4 - View the MLFlow UI at http://localhost:5000
+# 5 - Ctrl+C to exit the MLFlow UI
+# 6 - Try different alpha and L1 parameters using the following: python3 mlflow_example.py 0.1 0.1
+# 7 - Review the MLFlow UI at http://localhost:5000
 
 # The data set used in this example is from http://archive.ics.uci.edu/ml/datasets/Wine+Quality
 # P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
