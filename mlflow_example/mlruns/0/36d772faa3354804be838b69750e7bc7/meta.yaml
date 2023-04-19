@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/twileman/vdsml_how_to/mlflow_example/mlruns/0/36d772faa3354804be838b69750e7bc7/artifacts
+end_time: 1660865086282
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 36d772faa3354804be838b69750e7bc7
+run_uuid: 36d772faa3354804be838b69750e7bc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1660752296892
+status: 3
+tags: []
+user_id: twileman
